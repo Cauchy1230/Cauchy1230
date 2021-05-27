@@ -40,13 +40,5 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="cauchy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Cauchy1230&show_icons=true&hide_border=true" />
-
-</details>
-
-
 [instagram]: https://www.instagram.com/yifeng.xiong
 [linkedin]: https://www.linkedin.com/in/yifeng-xiong-473924134
