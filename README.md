@@ -1,6 +1,6 @@
 ### Hi there, I'm Yifeng - aka Cauchy 👋
 
-## I'm a Husband, Developer, and Engineer!!
+## I'm a Developer, and Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
